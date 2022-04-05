@@ -2,7 +2,7 @@
 
 Developer Name: Sagar Jaiswal   
 
- Github link: https://github.com/Sagar7229/Blogging-Project.git
+ Github link: https://github.com/Sagar7229/Ming-s-Diner-Restaurant.git
    
 Project objective :
      You are a web developer at a service-based web development company called Kite Technologies.   The company has been approached by a client who wants to build a website for their restaurant named Ming’s Diner. The website should provide the users a brief overview of the restaurant and its bestsellers, its address, as well as an option to contact the restaurant. During sprint planning, you agree to lead this project and develop the website. The tasks you are responsible for:  
